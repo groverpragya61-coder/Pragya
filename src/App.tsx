@@ -365,13 +365,7 @@ export default function App() {
                 </div>
               </div>
 
-              {/* Upload Helper Hint */}
-              <div className="text-center mt-3 text-xs text-slate-400">
-                <span className="inline-flex items-center gap-1 bg-white px-3 py-1 rounded-full shadow-sm border border-slate-100">
-                  <Upload className="w-3 h-3 text-blue-500 animate-pulse" />
-                  Hover photo to change/upload your natural picture!
-                </span>
-              </div>
+
 
               {/* Floating Social Icons Dock */}
               <div className="absolute -right-6 top-1/2 -translate-y-1/2 flex flex-col gap-3 bg-white p-3 rounded-2xl shadow-xl border border-slate-100">
