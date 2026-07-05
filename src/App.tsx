@@ -370,7 +370,7 @@ export default function App() {
               {/* Floating Social Icons Dock */}
               <div className="absolute -right-6 top-1/2 -translate-y-1/2 flex flex-col gap-3 bg-white p-3 rounded-2xl shadow-xl border border-slate-100">
                 <a
-                  href="https://linkedin.com"
+                  href="https://linkedin.com/in/pragya-grover"
                   target="_blank"
                   rel="noreferrer"
                   className="p-2.5 rounded-lg text-slate-500 hover:text-blue-600 hover:bg-slate-50 transition-all"
@@ -818,7 +818,7 @@ export default function App() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-slate-400 block uppercase font-bold">Professional Network</span>
-                    <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-sm font-semibold text-slate-800 hover:text-blue-600">
+                    <a href="https://linkedin.com/in/pragya-grover" target="_blank" rel="noreferrer" className="text-sm font-semibold text-slate-800 hover:text-blue-600">
                       linkedin.com/in/pragya-grover
                     </a>
                   </div>
